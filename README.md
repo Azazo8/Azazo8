@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Azazo8
 - 👀 I’m interested in data analysys and gamedev
-- 🌱 I’m currently learning C++ for game development and python, SQL for data analysys
+- 🌱 I’m currently learning C++ for game development and python, SQL at uni for data analysys
 - 📫 How to reach me:
 - Facebook: https://www.facebook.com/michal.zabost.5/?locale=pl_PL
 - email: Mizabo50@gmail.com
